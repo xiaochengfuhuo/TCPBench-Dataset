@@ -1,8 +1,8 @@
-# TCPNet-Dataset
+# TCPBench-Dataset
 
 ---
 
-**TCPNet-Dataset** is a tropical cyclone (TC) dataset designed for **deep learning–based TC rainfall and track-related prediction tasks**.
+**TCPBench-Dataset** is a tropical cyclone (TC) dataset designed for **deep learning–based TC rainfall and track-related prediction tasks**.
 It integrates historical observations, environmental reanalysis data, and future numerical weather prediction (NWP) information.
 
 The dataset is constructed following the settings described in our paper and is used by the **TCPNet framework**.
