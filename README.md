@@ -206,8 +206,8 @@ This design bridges **data-driven learning** and **physical modeling**.
 
 This dataset is designed to be used with:
 
-* TCPN-Diffusion
-* TCPN-F framework
+* TCP-Diffusion
+* TCPBench-F framework
 * Other deep learning models for TC rainfall or environment-aware prediction
 
 ---
